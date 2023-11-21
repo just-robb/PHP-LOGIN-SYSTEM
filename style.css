@@ -1,0 +1,24 @@
+
+.navigation{
+    border: #3a3a3a;
+}
+.navul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #3a3a3a;
+
+}
+li a {
+    display:block;
+     color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    
+}
+li{
+    float: left;
+}
+li a:hover{
+    background-color: red;
+}
